@@ -9,8 +9,9 @@ package notas;
  */
 public class califica {
 
-	/**
-	 * @param num_nota
+	/**Se crea una nueva clase que denominamos califica y movemos a 
+	 * la misma el método califica
+	 * @param num_nota El parámetro num_nota es el número introducido por teclado
 	 * @return
 	 */
 	public static String califica(int num_nota) {
